@@ -3,9 +3,9 @@
 This repo houses workflows for ComfyUI. They will eventually range in difficulty from very simple to very advanced. Due to my system constraints, these workflows are speceifically geared towards low VRAM usage. If your rig has similar specs to mine, they wil work fantastically for you.
 
 #### My System Specs:
-12th Generation i7 Laptop
-32GB System RAM
-Nvidia RTX3050(mobile) with 4GB VRAM
+- 12th Generation i7 Laptop
+- 32GB System RAM
+- Nvidia RTX3050(mobile) with 4GB VRAM
 
 
 ## Workflows:
@@ -22,7 +22,11 @@ Tip: To introduce variation in facial features of generated characters, add the 
 
 
 ## History
-2025/10/26 – Added SD1.5 Fantasy Character Creator v1.0 workflow.
+- 2025/10/26 – Added SD1.5 Fantasy Character Creator v1.0 workflow.
+
+## Coming Soon:
+- Low VRAM Qwen Edit 2509 Workflow.
+- Practical use of WAN2.2 on potatoes.
 
 ## Credits
 - All the developers who make tools available to everyone using local AI
