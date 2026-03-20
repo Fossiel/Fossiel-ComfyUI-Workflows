@@ -19,16 +19,26 @@ Drag the image below into ComfyUI to load the workflow.
 Tip: To introduce variation in facial features of generated characters, add the name of a well known celebrity or fashion supermodel to the positive prompt.  
 
 ![SD1-5_Fantasy_Character_Creator_v1-0](images/SD1-5_Fantasy_Character_Creator_v1-0.png)
+---
+### SD1.5 Semi-Real Character Creator v1.0
+
+This workflow uses an SD1.5 model stack to produce "semi-realistic" characters. Warped limbs are this sport's injuries but the workflow runs very fast and good generations happen frequently. On the plus side, the characters generated have such a high level of consistency that they have to be forced into looking differently. To accomplish this, add pre-SD1.5 (<2022) celebrity names to the prompt in the format `(Celebrity Name:1.0)` and adjust the strength after the colon. Multiple names can be added to make amalgamated changes. Use this ethically by only affecting the output and not actually trying to copy the celebrity's face.  
+
+Drag the image below into ComfyUI to load the workflow.  
+
+![SD1-5_Semi-Realistic_Character_Creator_v1-0](images/SD1-5_Semi-Real_Character_Creator_V1.png)
 
 
 
 ## History
-- 2025/10/26 – Added SD1.5 Fantasy Character Creator v1.0 workflow.
+- 2026/03/20 – Added SD1.5 Semi-Realistic Character Creator v1.0 workflow.  
+- 2025/10/26 – Added SD1.5 Fantasy Character Creator v1.0 workflow.  
 
 ## Coming Soon:
-- Low VRAM Qwen Edit 2509 Workflow.
-- Practical use of WAN2.2 on potatoes.
+- Z-Image-Turbo Character Creator.
+- Low VRAM Qwen Edit Plus Workflow.  
+- Practical use of WAN2.2 on potatoes.  
 
 ## Credits
-- All the developers who make tools available to everyone using local AI
-- Model developers for supplying fantastic open source models, free of charge.
+- All the developers who make tools available to everyone using local AI  
+- Model developers for supplying fantastic open source models, free of charge.  
