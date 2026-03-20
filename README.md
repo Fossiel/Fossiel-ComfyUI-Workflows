@@ -1,7 +1,7 @@
 # Fossiel ComfyUI Workflows
 This repo houses workflows for ComfyUI. They will eventually range in difficulty from very simple to very advanced. It hasn't received much love but that's about to change.
 ---
-# Important: Please Read If You Use These Workflows ❤️
+# Important: Please Read If You Use These Workflows  
 
 I share these ComfyUI workflows completely for free because I believe in paying forward — **no paywalls, no exclusive Discords, no gatekeeping**.
 
