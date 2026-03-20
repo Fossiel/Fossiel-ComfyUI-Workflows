@@ -1,5 +1,29 @@
 # Fossiel ComfyUI Workflows
-This repo houses workflows for ComfyUI. They will eventually range in difficulty from very simple to very advanced. Due to my system constraints, these workflows are specifically geared towards low VRAM usage. If your rig has similar specs to mine, these workflows should work fantastically for you as well.
+This repo houses workflows for ComfyUI. They will eventually range in difficulty from very simple to very advanced. It hasn't received much love but that's about to change.
+---
+# Important: Please Read If You Use These Workflows ❤️
+
+I share these ComfyUI workflows completely for free because I believe in paying forward — **no paywalls, no exclusive Discords, no gatekeeping**.
+
+My main goal is to get more eyes on my work so I can grow my **GitHub** and **YouTube channel** (and maybe eventually turn this into something sustainable like commissions or Patreon).  
+A small credit goes a really long way toward that — it costs you almost nothing but helps me a ton.
+
+**If you use, modify, or feature any of these workflows, I'd be very grateful if you could follow these simple courtesies:**
+
+- **Link to this repo** instead of re-uploading / redistributing the .json or .png files elsewhere (Civitai, Reddit, Discord shares, etc.).  
+  This keeps views, stars, and feedback centralized here.
+
+- **Give credit** in video descriptions, titles, posts, or workflow notes:  
+  e.g. "Workflow based on / inspired by [Your GitHub username]'s work → github.com/yourusername/your-repo"  
+  or "@yourusername on GitHub / YouTube — check out the original here!"
+
+- **Please don't** put these (or close derivatives) behind any paywall, sell access, or include them in paid bundles/courses.
+
+If you do something cool with one of these, feel free to tag me or drop a link — I love seeing what people create and I'm happy to share / shout out good uses!
+
+Thanks so much for respecting this — it keeps free high-quality workflows flowing for everyone. 🙏  
+---
+Due to my system constraints, these workflows are specifically geared towards low VRAM usage. If your rig has similar specs to mine, these workflows should work fantastically for you as well.
 
 #### My System Specs:
 - 12th Generation i7 Laptop
