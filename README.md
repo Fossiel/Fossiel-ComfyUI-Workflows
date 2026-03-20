@@ -14,8 +14,8 @@ A small credit goes a really long way toward that — it costs you almost nothin
   This keeps views, stars, and feedback centralized here.
 
 - **Give credit** in video descriptions, titles, posts, or workflow notes:  
-  e.g. "Workflow based on / inspired by [Your GitHub username]'s work → github.com/yourusername/your-repo"  
-  or "@yourusername on GitHub / YouTube — check out the original here!"
+  e.g. "Workflow based on / inspired by Fossiel's work → https://github.com/Fossiel/Fossiel-ComfyUI-Workflows"  
+  or "@Fossiel on GitHub / @FossielTech on YouTube — check out the original here!"
 
 - **Please don't** put these (or close derivatives) behind any paywall, sell access, or include them in paid bundles/courses.
 
