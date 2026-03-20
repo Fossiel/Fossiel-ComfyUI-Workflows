@@ -26,7 +26,7 @@ This workflow uses an SD1.5 model stack to produce "semi-realistic" characters. 
 
 Drag the image below into ComfyUI to load the workflow.  
 
-![SD1-5_Semi-Realistic_Character_Creator_v1-0](images/SD1-5_Semi-Real_Character_Creator_V1.png)
+![SD1-5_Semi-Realistic_Character_Creator_v1-0](images/SD1-5_Semi-Real_Character_Creator_v1-0.png)
 
 
 
