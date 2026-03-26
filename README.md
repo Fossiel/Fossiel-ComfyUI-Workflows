@@ -55,7 +55,7 @@ Drag the image below into ComfyUI to load the workflow.
 ![SD1-5_Semi-Realistic_Character_Creator_v1-0](images/SD1-5_Semi-Real_Character_Creator_v1-0.png)
 
 Using the image below as pose driver in combination with the models listed in the workflow, will almost always produce women with and hourglass figure and slightly elongated legs. This results in that super model look. The image has a front and a back next to each other but SD1.5 doesn't understand "back" well and produces 2 front-facing characters. Ironically, this helps getting to a really good generation in half the time.  
-<img src="images/Neutral_Pose_-_Semi-Real_Female_001.png" alt="Neutral_Pose_-_Semi-Real_Female_001.png" width="700">
+<img src="images/Neutral_Pose_-_Semi-Real_Female_001.png" alt="Neutral_Pose_-_Semi-Real_Female_001.png" width="300">
 
 ---
 
